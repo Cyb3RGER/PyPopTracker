@@ -1,0 +1,4 @@
+dist/
+venv/
+PyPopTracker.egg-info/
+.idea/

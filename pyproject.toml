@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "PyPopTracker"
+version = "0.0.1"
+authors = [
+  { name="Cyb3R" },
+]
+description = "Package to generate PopTracker Packs"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+]
